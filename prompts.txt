@@ -1,0 +1,3 @@
+Explain in brief what an API is
+What is Machine Learning?
+What is an LLM?
